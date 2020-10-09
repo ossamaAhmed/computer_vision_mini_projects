@@ -1,0 +1,9 @@
+- Camera Calibration
+- Feature extraction (and matching))
+- Monte Carlo Localization using Particle Filter
+- Multiple view geometry and model fitting (2 weeks work)
+- Image segmentation
+- stereo matching
+- Structure from Motion
+- Shape Matching (using Shape Context descriptors)
+- Visual Hull (Shape from silhouettes)
